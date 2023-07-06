@@ -49,3 +49,4 @@ memo = [None] * (n + 1)
 fib(n, memo)
 print("The sequence is")
 print(str(memo[1:n + 1]))
+#from replit test
