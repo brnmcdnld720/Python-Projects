@@ -1,0 +1,5 @@
+/config
+/git
+/venv
+.replit
+replit.nix
